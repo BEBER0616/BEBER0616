@@ -4,3 +4,9 @@
 BEBER0616/BEBER0616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Bebers.readme.txt
+
+Welcome my profile.
+Languages : Luau, Python
+Name : Beber
+
