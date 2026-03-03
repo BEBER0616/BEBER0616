@@ -7,6 +7,6 @@ You can click the Preview link to take a look at your changes.
 Bebers.readme.txt
 
 Welcome my profile.
-Languages : Luau, Python
+Languages : Luau, Python(Main), Java
 Name : Beber
 
